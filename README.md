@@ -1,8 +1,9 @@
 # HAVELSAN-Pardus-ve-Liman-Teknoloji-Kampi
 First Day Homework
 
-## 1. Python kabuğu üzerinde basit fonksiyon geliştirme Uçbirim üzerinde python kabuğu açılmalı, python kabuğu üzerinde fibo (fibonacci dizisi için) 
-kütüphanesini içeri aktararak, dizinin ilk 10 sayısını döndüren bir fonksiyon yazın.
+---
+
+## 1. Python kabuğu üzerinde basit fonksiyon geliştirme Uçbirim üzerinde python kabuğu açılmalı, python kabuğu üzerinde fibo (fibonacci dizisi için) kütüphanesini içeri aktararak, dizinin ilk 10 sayısını döndüren bir fonksiyon yazın.
 
 ![](https://user-images.githubusercontent.com/37108233/132386851-04e9f590-f247-4a67-8ac8-094fb2340bba.PNG)
 
@@ -30,3 +31,5 @@ hiçbir şekilde etkilenmez ve yeni tanımlar yapmaya gerek kalmaz. LVM, hacim g
 ## 4. Dosya türlerinden Ext4 ve NTFS nedir ?
 
 Ext4 Linux dosya sistemidir. NTFS ise Windows NT'nin standart dosya sistemidir tamamen Microsoft'a aittir.
+
+---
