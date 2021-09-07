@@ -1,5 +1,4 @@
 # HAVELSAN-Pardus-ve-Liman-Teknoloji-Kampi
-First Day Homework
 
 ---
 
